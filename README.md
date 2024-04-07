@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working in field of **DevOps**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **golang**
   
-- 🤖 I have also Created projects on **Machine Learning**
+- 🤖 I have also Created projects on **discord bot connection through api**
 
-- 💬 Ask me about **Data Structure & Algorithm, DevOps, Kubernetes, React, Artificial Intelligence**
+- 💬 Ask me about **Bot & Api, DevOps, js, discord development**
 
-- 📫 How to reach me **sutsavverma@gmail.com**
+- 📫 How to reach me **mylaboratory2@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/u/1/folders/16Jmptvrqv87FF4t8VPqRdxrLkPo6nXuP)
+- 📄 Know about my experiences []
 
-- ⚡ Fun fact **I think I'm Data Structure & Algorithm expert**
+- ⚡ Fun fact **I think I'm web app & bot expert**
 
 <h3> Projects</h3>
 <p>- Dice Game <a href="https://github.com/utsav-verma/Dice-Game">Link</a></p>
